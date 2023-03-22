@@ -1,6 +1,5 @@
 package com.example.myapplication
 
-android:orientation="vertical">
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
